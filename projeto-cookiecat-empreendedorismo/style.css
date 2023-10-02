@@ -1,0 +1,29 @@
+html {
+    background-color: rgb(185, 166, 140);
+}
+.botao{
+    background-color: aliceblue;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+.title{
+    color: aliceblue;
+    background-color: aliceblue;
+    text-decoration: overline;
+}
+:root{
+    background-color: antiquewhite;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+.header{
+    background-color: aliceblue;
+    color: aliceblue;
+}
+body{
+    text-align: center;
+}
+
